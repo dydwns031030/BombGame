@@ -57,6 +57,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scriots\FollowCamera.cs" />
     <Compile Include="Assets\Scriots\PlayerController.cs" />
+    <Compile Include="Assets\Scriots\GameManager.cs" />
+    <Compile Include="Assets\Scriots\Enermy.cs" />
+    <Compile Include="Assets\Scriots\EnermySpawner.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\JKT_ART\etc\MatCap.shader" />
