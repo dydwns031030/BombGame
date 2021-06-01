@@ -55,11 +55,13 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scriots\GameManager.cs" />
+    <Compile Include="Assets\Scriots\EnermySpawner.cs" />
+    <Compile Include="Assets\Scriots\Enermy.cs" />
     <Compile Include="Assets\Scriots\FollowCamera.cs" />
     <Compile Include="Assets\Scriots\PlayerController.cs" />
-    <Compile Include="Assets\Scriots\GameManager.cs" />
-    <Compile Include="Assets\Scriots\Enermy.cs" />
-    <Compile Include="Assets\Scriots\EnermySpawner.cs" />
+    <Compile Include="Assets\Scriots\Bullet.cs" />
+    <Compile Include="Assets\Scriots\Gun.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\JKT_ART\etc\MatCap.shader" />
